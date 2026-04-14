@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Win-maker/Win-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-# Hi there 👋
-
 I'm Win Win Htet  
 💻 Frontend Developer (React + TypeScript)  
 🌱 Currently learning advanced web development  
@@ -22,4 +16,3 @@ I'm Win Win Htet
 - C# Dotnet
 - MySQL 
 - Postresql
--->
