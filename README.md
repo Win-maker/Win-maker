@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Win Win Htet  
-💻 Frontend Developer (React + TypeScript)  
+💻 FullStack Developer (React + TypeScript)  
 🌱 Currently learning advanced web development  
 🔭 I’m currently working on ... KBZ Life Insurance
 📫 How to reach me:  winwinhtet199977@gmail.com
